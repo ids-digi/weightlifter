@@ -1,33 +1,27 @@
 const data = {
     "url": "your-url-here",
     "slug": "Story slug",
-    "headline": "This is the headline",
+    "headline": "‘Mary can’: How a track and field athlete became an Olympic weightlifter",
     "title": "Buildout Template",
     "pub_date": "{insert your date in metadata.json}",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
-            "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Lily Saylor",
+            "email": "@iu.edu",
+            "pfp": "?",
+            "bio": "TODO"
         },
         "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
+            "name": "Katherine Maners",
+            "email": "@iu.edu",
+            "pfp": "?",
+            "bio": "TODO"
         },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
-        },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
+            "name": "Lillie Donato",
+            "email": "mdonato@iu.edu",
+            "pfp": "?",
+            "bio": "TODO"
         }
     }
 }

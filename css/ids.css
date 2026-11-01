@@ -236,7 +236,8 @@ header {
 }
 
 .headline-container {
-    top: 45%;
+    bottom: 5%;
+    left: 5%;
     position: absolute;
 }
 
