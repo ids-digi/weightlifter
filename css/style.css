@@ -16,7 +16,7 @@
 header {
   /* add header image below */
   /* can use a file path before the photo is uploaded to ceo */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('https://s3.amazonaws.com/snwceomedia/ids/5053e8cc-d3e1-44f8-9153-bb2d81ecc918.original.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url('https://s3.amazonaws.com/snwceomedia/ids/970361cc-89c8-4803-a273-650c8fb1c02c.original.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   /* adjusts image placement, can also be set as percentages (ex. 50% 50%) */
@@ -58,7 +58,6 @@ h2 {
 }
 
 .headline-container > h1, .headline-container > h2 {
-  font-family: 'Inter', sans-serif;
   text-align: left;
 }
 

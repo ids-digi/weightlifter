@@ -1,6 +1,6 @@
 const data = {
     "url": "your-url-here",
-    "slug": "Story slug",
+    "slug": "Olympic weightlifter",
     "headline": "‘Mary can’: How a track and field athlete became an Olympic weightlifter",
     "title": "Buildout Template",
     "pub_date": "{insert your date in metadata.json}",
