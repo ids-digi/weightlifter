@@ -1,27 +1,27 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Olympic weightlifter",
+    "url": "weightlifter-olympian-bloomington",
+    "slug": "Olympic Weightlifter",
     "headline": "‘Mary can’: How a track and field athlete became an Olympic weightlifter",
-    "title": "Buildout Template",
-    "pub_date": "{insert your date in metadata.json}",
+    "title": "Olympic Weightlifter",
+    "pub_date": "November 2, 2026",
     "bylines": {
         "By": {
             "name": "Lily Saylor",
-            "email": "@iu.edu",
-            "pfp": "?",
-            "bio": "TODO"
+            "email": "saylorl@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/f42b93eb-1b87-43f6-b215-dfa1dd1e26ed.original.jpg",
+            "bio": "Lily has worked at the IDS since 2024 and is an enterprise editor."
         },
         "Photos by": {
             "name": "Katherine Maners",
-            "email": "@iu.edu",
-            "pfp": "?",
-            "bio": "TODO"
+            "email": "katmaner@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/e192d842-c762-470e-bdd4-eb963230c3ba.original.jpg",
+            "bio": "Katherine has worked at the IDS since 2024 and is a visuals editor"
         },
         "Design and development by": {
             "name": "Lillie Donato",
             "email": "mdonato@iu.edu",
-            "pfp": "?",
-            "bio": "TODO"
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/892b8a83-4320-4435-804c-6eff0e6903eb.original.jpg",
+            "bio": "Lillie has worked at the IDS since 2026 and currently serves as the managing editor of digital."
         }
     }
 }
